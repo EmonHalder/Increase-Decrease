@@ -36,7 +36,7 @@ function App() {
       </div>
 
       <div className="card">
-        <h2>Stopwatch</h2>
+        <h2>STOPWATCH</h2>
         <p>Time: {time}s</p>
         <button onClick={() => setIsRunning(true)}>Start</button>
         <button onClick={() => setIsRunning(false)}>Stop</button>
