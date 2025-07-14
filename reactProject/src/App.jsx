@@ -29,7 +29,7 @@ function App() {
    
 
       <div className="card">
-        <h2>Counter</h2>
+        <h2>COUNTER</h2>
         <p>Count is: {count}</p>
         <button onClick={() => setCount(count + 1)}>Increase</button>
         <button onClick={() => setCount(count - 1)}>Decrease</button>
